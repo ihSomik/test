@@ -83,7 +83,7 @@ Throughout the specialization, I built and deployed models using:
 - Machine Learning  
 - XGBoost  
 
-### 📗 Course 3: Unsupervised Learning, Recommenders & RL
+### 📗 Course 3: Unsupervised Learning, Recommenders & Reinforcement Learning
 - Deep Learning  
 - Algorithms  
 - Collaborative Filtering  
