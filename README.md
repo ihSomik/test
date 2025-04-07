@@ -12,7 +12,7 @@ This repository documents my hands-on learning journey through the **Machine Lea
 
 The specialization consists of three comprehensive courses that integrate theoretical foundations with real-world applications. It emphasizes hands-on experience using tools such as **Python**, **NumPy**, **scikit-learn**, and **TensorFlow**, making it ideal for aspiring machine learning practitioners and AI enthusiasts.
 
-### ✅ [View Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/0M4CHSOVJW7F)
+### ✅ [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/0M4CHSOVJW7F)
 
 ---
 
@@ -66,10 +66,10 @@ Throughout the specialization, I gained practical experience building and deploy
 
 ## 💡 Fun Facts
 
-> *“A machine learning engineer’s favorite camping spot? The Random Forest!”*  
+> *A machine learning engineer’s favorite camping spot? The Random Forest!*  
 > — Advanced Learning Algorithms, Week 4
 
-> Andrew Ng’s AI helicopter first learned how to fly and then progressed to performing stunts, impressively mastering flips and other maneuvers.
+> *Andrew Ng’s AI helicopter first learned how to fly and then progressed to performing stunts, impressively mastering flips and other maneuvers.*
 > — Unsupervised Learning, Recommenders, and Reinforcement Learning, Week 3
 > [Watch the video →](https://youtu.be/M-QUkgk3HyE?si=UIJ06IplgsGNnld9)
 
