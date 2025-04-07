@@ -67,11 +67,12 @@ Throughout the specialization, I gained practical experience building and deploy
 ## 💡 Fun Facts
 
 > *A machine learning engineer’s favorite camping spot? The Random Forest!*  
-> — Advanced Learning Algorithms, Week 4
+> — *Advanced Learning Algorithms, Week 4*
 
-> *Andrew Ng’s AI helicopter first learned how to fly and then progressed to performing stunts, impressively mastering flips and other maneuvers.*
-> — Unsupervised Learning, Recommenders, and Reinforcement Learning, Week 3
-> [Watch the video →](https://youtu.be/M-QUkgk3HyE?si=UIJ06IplgsGNnld9)
+> *Andrew Ng’s AI helicopter first learned how to fly and then progressed to performing stunts, impressively mastering flips and other maneuvers.*  
+> — *Unsupervised Learning, Recommenders, and Reinforcement Learning, Week 3*  
+> [🎥 Watch the video →](https://youtu.be/M-QUkgk3HyE?si=UIJ06IplgsGNnld9)
+
 
 ---
 
