@@ -115,6 +115,5 @@ I would like to thank:
 - **Andrew Ng** for his exceptional teaching and ability to make complex concepts intuitive.
 - **DeepLearning.AI** and **Stanford Online** for offering this top-notch specialization.
 - **Coursera** for providing a platform that makes world-class education accessible.
-- My friends and peers who encouraged me to complete this journey.
 - Myself—for staying committed, curious, and persistent throughout this learning adventure. 
 
