@@ -14,13 +14,13 @@ The specialization includes **three courses** covering critical aspects of machi
 
 ### [Course 2: Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 - **Key Topics:** Neural Networks with TensorFlow, XGBoost, Tree Ensembles
-- [Certificate of Completion](https://coursera.org/share/1e9e698c4fafd131a8d63a561a6ec444)
+- [Certificate of Completion](https://coursera.org/share/4f175c18ec9374aa6e98b655606234c5)
 
 ### [Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 - **Key Topics:** Unsupervised Learning, Anomaly Detection, Recommender Systems, Reinforcement Learning
-- [Certificate of Completion](https://coursera.org/share/1e9e698c4fafd131a8d63a561a6ec444)
+- [Certificate of Completion](https://coursera.org/share/23a81e71b543b68e43211c638d91859c)
 
-### [Specialization Certificate](https://coursera.org/share/1e9e698c4fafd131a8d63a561a6ec444)
+### [Specialization Certificate](https://coursera.org/share/d341803eac3bc388ea8ec6d04aa47d85)
 
 ## Projects & Skills
 
